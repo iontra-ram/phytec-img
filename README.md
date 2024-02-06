@@ -12,9 +12,9 @@ repo should be considered obsolete.
 
 # Relevant JIRA/Confluence pages
 
-[INF-959](https://iontra.atlassian.net/browse/INF-959)
-[PL-102](https://iontra.atlassian.net/browse/PL-102)
-[DELTA-2041](https://iontra.atlassian.net/browse/DELTA-2041)
+- [INF-959](https://iontra.atlassian.net/browse/INF-959)
+- [PL-102](https://iontra.atlassian.net/browse/PL-102)
+- [DELTA-2041](https://iontra.atlassian.net/browse/DELTA-2041)
 
 # Process
 
